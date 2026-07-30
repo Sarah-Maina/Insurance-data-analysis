@@ -1,7 +1,2 @@
 # Salary-Data-Analysis
-This project demonstrates the use of python to analyze a salary dataset, visualize data and build a simple machine learning model.
-## skills demonstrated
-1. data analysis
-2.  data cleaning
-3.  data visualization
-4.  problem solving.
+This project analyzes salary data using python to explore the relationship between years of experience and salary. it involves importing and cleaning of dataset, performing explanatory data, generating descriptive statistics and creating visualizations to identify trends and patterns A simple Linear Regression model is built to predict salaries with performance evaluated using Mean Squared Error. The project showcases practical skills in statistical analysis, data preprocessing and machine learning using Pandas, Numpy, Matplotlib,Jupyter Notebook and Scikit-learn.
