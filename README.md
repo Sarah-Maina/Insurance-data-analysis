@@ -1,4 +1,4 @@
-# Insurance-Data-Analysis
+# Salary-Data-Analysis
 This project demonstrates the use of python to analyze a salary dataset, visualize data and build a simple machine learning model.
 ## skills demonstrated
 1. data analysis
